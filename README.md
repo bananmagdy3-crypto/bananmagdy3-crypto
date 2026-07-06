@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Banan%20Magdy&subtitle=Data%20Scientist%20/%20Junior%20Data%20Analyst&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
-<h2 align="center">👋 Welcome to my GitHub Profile!</h2>
+<h2 align="center">🔍 Turning Raw Data into Meaningful Insights & Stories 📊</h2>
 
 <p align="center">
   Computer Science Student passionate about Data Science, Machine Learning, and Competitive Programming. 🚀
@@ -36,13 +36,4 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=gotham" alt="Banan's GitHub Stats" />
-</p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=radical" alt="Banan's GitHub Stats" />
 </p>
