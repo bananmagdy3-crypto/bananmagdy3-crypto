@@ -34,7 +34,7 @@
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,html,c++"/>
+<img src="https://skillicons.dev/icons?i=python,cs,html,cpp"/>
 </p>
 
 ## 📊 Data Science
