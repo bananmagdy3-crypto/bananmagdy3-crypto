@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=000000&height=200&section=header&text=Banan%20Magdy&fontSize=50&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Banan+Magdy;Turning+Raw+Data+into+Meaningful+Insights;And+Data+Stories+%F0%9F%93%8A" alt="Typing Effect" />
 </p>
-
-<h2 align="center"> 🔍 Turning Raw Data into Meaningful Insights & Stories 📊</h2>
 
 <p align="center">
   Computer Science Student passionate about Data Science, Machine Learning, and Competitive Programming. 🚀
@@ -36,25 +34,4 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bananmagdy3-crypto&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="Banan's GitHub Stats" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/banan-magdy-a80b24304/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bananmagdy3@gmail.com.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=000000&height=100&section=footer" />
-</p>
