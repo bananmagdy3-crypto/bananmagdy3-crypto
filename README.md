@@ -1,83 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Banan%20Magdy&subtitle=Data%20Scientist%20/%20Junior%20Data%20Analyst&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=waving&color=000000&height=200&section=header&text=Banan%20Magdy&fontSize=50&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🔍 Turning Raw Data into Meaningful Insights & Stories 📊</h2>
+<h2 align="center"> 🔍 Turning Raw Data into Meaningful Insights & Stories 📊</h2>
 
 <p align="center">
   Computer Science Student passionate about Data Science, Machine Learning, and Competitive Programming. 🚀
 </p>
 
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 📂 Languages & Libraries
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=000000" />
+  
+<br/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=202020" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=202020" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=white&color=202020" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white&color=202020" />
+
+#### 💾 Databases & Tools
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=000000" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=000000" />
+
+---
+
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <!-- عداد زوار الصفحة الاحترافي متناسق باللون البنفسجي -->
-  <img src="https://komarev.com/normal-badge/percolate?style=flat-square&label=Profile+Views&color=9D4EDD" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bananmagdy3-crypto&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="Banan's GitHub Stats" />
 </p>
 
-<hr>
+---
 
-<h3 align="center">🛠️ Tech Stack & Skills</h3>
-
-<h4 align="center">Languages & Libraries</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
+### 📫 Let's Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-5A189A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-7B2CBF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-9D4EDD?style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib"/>
-</p>
-
-<h4 align="center">Databases & Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PowerBI-E0AAFF?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats & Activity</h3>
-
-<p align="center">
-  <!-- الإحصائيات بثيم دراكولا المتناسق مع البنفسجي -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=dracula" alt="Banan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- الرسم البياني التفاعلي للمساهمات باللون البنفسجي الساحر -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bananmagdy3-crypto&theme=dracula&bg_color=1e1e2e&color=9d4edd&line=7b2cbf&point=e0aaff&area=true&hide_border=true" width="100%" alt="Banan's Contribution Graph" />
-</p>
-
-<hr>
-
-<h3 align="center">📬 Let's Connect</h3>
-
-<p align="center">
-  <!-- أزرار التواصل الاجتماعي بألوان بنفسجية متدرجة أنيقة جداً -->
-  <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/banan-magdy-a80b24304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000" />
   </a>
-  <a href="mailto:bananmagdy3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:bananmady3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000" />
   </a>
 </p>
 
 <p align="center">
-  <!-- البانر السفلي المتموج لإغلاق التصميم بشكل جمالي -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=footer" width="100%"/>
-</p>
-
-<h4 align="center">Databases & Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PowerBI-E0AAFF?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=gotham" alt="Banan's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=000000&height=100&section=footer" />
 </p>
