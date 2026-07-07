@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Banan+Magdy;Turning+Raw+Data+into+Meaningful+Insights;And+Data+Stories+%F0%9F%93%8A" alt="Typing Effect" />
-</p>
+# 🖤 Banan Magdy
+### 🔍 Turning Raw Data into Meaningful Insights & Stories
 
-<p align="center">
+<p align="left">
   Computer Science Student passionate about Data Science, Machine Learning, and Competitive Programming. 🚀
 </p>
 
@@ -33,5 +32,11 @@
 </p>
 
 ---
+
+### 📊 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bananmagdy3-crypto&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Banan's Trophies" />
+</p>
 
 
