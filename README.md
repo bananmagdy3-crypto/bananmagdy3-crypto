@@ -6,11 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
 
-<div align="center">
-
-<img src="assets/coding.gif" width="350"/>
-
-</div>
+<!-- Replace the link below with your own hijab girl GIF -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/assets/hijab-girl.gif" width="350"/>
 
 </div>
 
@@ -68,8 +65,6 @@
 
 <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
 </p>
 
 ---
@@ -104,7 +99,6 @@
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
 </p>
 
