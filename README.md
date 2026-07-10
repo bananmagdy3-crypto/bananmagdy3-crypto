@@ -143,27 +143,5 @@
 
 </div>
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bananmagdy3-crypto&theme=tokyonight"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&style=for-the-badge&color=blueviolet"/>
-
-</div>
 
