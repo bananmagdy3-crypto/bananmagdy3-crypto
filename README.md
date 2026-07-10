@@ -4,7 +4,7 @@
 
 ### 🚀 Data Science | Machine Learning | Competitive Programming
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5tdW14cHV2YTdldGt3em1lNHY0NzBlemNvYWliY3lmbXdydXNraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="350"/>
 
 <br>
 
