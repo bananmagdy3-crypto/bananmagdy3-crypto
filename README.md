@@ -4,11 +4,10 @@
 
 ### 🚀 Data Science | Machine Learning | Competitive Programming
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5tdW14cHV2YTdldGt3em1lNHY0NzBlemNvYWliY3lmbXdydXNraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="350"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
 
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5tdW14cHV2YTdldGt3em1lNHY0NzBlemNvYWliY3lmbXdydXNraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="350"/>
+<!-- Replace the link below with your own hijab girl GIF -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVzc3V0emtrbTAxbnYwbTQyZ3p0bGh6a2N5dGJlc3FpcHY5MHRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="350"/>
 
 </div>
 
@@ -20,15 +19,15 @@
 
 📊 Passionate about **Data Science & Artificial Intelligence**
 
-🤖 Interested in **Machine Learning**
+🤖 Interested in **Machine Learning & Deep Learning**
 
-🌐 Exploring **Web Scraping & Automation**
+🧹 Experienced with **Data Cleaning & Data Visualization**
 
-🧹 Skilled in **Data Cleaning & Data Visualization**
+🌐 Learning **Web Scraping & Automation**
 
 🧠 Competitive Programming Enthusiast
 
-📚 Always learning something new
+📚 Always learning new technologies
 
 💜 Goal:
 
@@ -40,15 +39,15 @@
 
 ## 💻 Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,mysql"/>
 </p>
 
 ---
 
-## 📊 Data Science
+## 📊 Data Science & Analytics
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -74,7 +73,7 @@
 
 ## 🛠 Tools
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=vscode,github,jupyter"/>
 
@@ -88,15 +87,17 @@
 
 ## 🗄 Databases
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
 
 ## 📈 Business Intelligence
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
@@ -138,6 +139,10 @@
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&style=for-the-badge&color=blueviolet"/>
 
