@@ -6,8 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
 
-<!-- Replace the link below with your own hijab girl GIF -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVzc3V0emtrbTAxbnYwbTQyZ3p0bGh6a2N5dGJlc3FpcHY5MHRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="350"/>
+<div align="center">
+
+<img src="assets/coding.gif" width="350"/>
+
+</div>
 
 </div>
 
