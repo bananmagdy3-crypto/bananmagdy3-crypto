@@ -6,7 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
 
-<img src="https://media.tenor.com/tZ2M9OPhm38AAAAC/hi-tech.gif" width="350"/>
+<!-- This is the updated image, replacing the old GIF -->
+<!-- MAKE SURE TO UPDATE THE PATH BELOW TO YOUR IMAGE'S DIRECTORY ON GITHUB -->
+<img src="YOUR_IMAGE_PATH_ON_GITHUB" width="100%" max-width="800px" style="border-radius: 10px;"/>
 
 </div>
 
@@ -64,6 +66,7 @@
 
 <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge"/>
 
+
 </p>
 
 ---
@@ -98,8 +101,8 @@
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
-
 </p>
+
 
 
 ---
@@ -119,6 +122,26 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananmagdy3-crypto&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bananmagdy3-crypto&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 ---
 
