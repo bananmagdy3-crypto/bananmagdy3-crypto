@@ -6,7 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5tdW14cHV2YTdldGt3em1lNHY0NzBlemNvYWliY3lmbXdydXNraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="350"/>
 
 </div>
 
@@ -18,15 +20,15 @@
 
 📊 Passionate about **Data Science & Artificial Intelligence**
 
-🤖 Interested in **Machine Learning & Deep Learning**
+🤖 Interested in **Machine Learning**
 
-🧹 Experienced with **Data Cleaning & Data Visualization**
+🌐 Exploring **Web Scraping & Automation**
 
-🌐 Learning **Web Scraping & Automation**
+🧹 Skilled in **Data Cleaning & Data Visualization**
 
 🧠 Competitive Programming Enthusiast
 
-📚 Always learning new technologies
+📚 Always learning something new
 
 💜 Goal:
 
@@ -38,15 +40,15 @@
 
 ## 💻 Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,mysql"/>
 </p>
 
 ---
 
-## 📊 Data Science & Analytics
+## 📊 Data Science
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -72,7 +74,7 @@
 
 ## 🛠 Tools
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=vscode,github,jupyter"/>
 
@@ -86,26 +88,24 @@
 
 ## 🗄 Databases
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
 ---
 
 ## 📈 Business Intelligence
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
 </p>
 
+
 ---
-
-
 
 ## 📈 GitHub Activity Graph
 
