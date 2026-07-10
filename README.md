@@ -6,8 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
 
-<!-- Replace the link below with your own hijab girl GIF -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/assets/hijab-girl.gif" width="350"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
 </div>
 
