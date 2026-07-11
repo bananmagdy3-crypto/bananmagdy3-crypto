@@ -21,12 +21,10 @@
 </p>
 
 <p align="center">
-📊 Data Science &nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 Machine Learning &nbsp;&nbsp;•&nbsp;&nbsp;
+📊 Data Analysis &nbsp;&nbsp;•&nbsp;&nbsp;
 📈 Data Visualization &nbsp;&nbsp;•&nbsp;&nbsp;
 🧹 Data Cleaning &nbsp;&nbsp;•&nbsp;&nbsp;
 🌐 Web Scraping &nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ Automation &nbsp;&nbsp;•&nbsp;&nbsp;
 🏆 Competitive Programming
 </p>
 <p align="center">
