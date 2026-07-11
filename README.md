@@ -14,27 +14,21 @@
 <img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
-# 💜 About Me
+<h2 align="center">💜 What I Do</h2>
 
-<img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,github,vscode"/>
+</p>
 
-🎓 Computer Science Student
-
-📊 Passionate about Data Science & AI
-
-🤖 Machine Learning Explorer
-
-🧹 Data Cleaning Specialist
-
-📈 Data Visualization Lover
-
-🌐 Web Scraping Enthusiast
-
+<p align="center">
+📊 Data Science &nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 Machine Learning &nbsp;&nbsp;•&nbsp;&nbsp;
+📈 Data Visualization &nbsp;&nbsp;•&nbsp;&nbsp;
+🧹 Data Cleaning &nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 Web Scraping &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ Automation &nbsp;&nbsp;•&nbsp;&nbsp;
 🏆 Competitive Programming
-
-☕ Coffee + Code = Happiness
-
-💡 Building projects every day.
+</p>
 <p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
