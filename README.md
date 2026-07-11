@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<img width="800" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+<img width="750" src="https://user-images.githubusercontent.com/74038190/240885248-52df6c17-9f4e-4d59-b6cb-5c8d32f52b07.gif">
 </p>
 <p align="center">
 
