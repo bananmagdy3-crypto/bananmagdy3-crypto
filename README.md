@@ -1,147 +1,56 @@
 <div align="center">
 
-# 💜 Hi, I'm Banan Magdy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD,9370DB&height=220&section=header&text=Banan%20Magdy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20Machine%20Learning%20|%20Competitive%20Programming&descAlignY=58"/>
 
-### 🚀 Data Science | Machine Learning | Competitive Programming
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;Future+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Explorer;Always+Learning+New+Things"/>
-
-<!-- This is the updated image, replacing the old GIF -->
-<!-- MAKE SURE TO UPDATE THE PATH BELOW TO YOUR IMAGE'S DIRECTORY ON GITHUB -->
-<img src="YOUR_IMAGE_PATH_ON_GITHUB" width="100%" max-width="800px" style="border-radius: 10px;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+Into+Insights;Future+AI+Engineer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+Something+New"/>
 
 </div>
 
----
+<p align="center">
+<img width="750" src="https://user-images.githubusercontent.com/74038190/240885248-52df6c17-9f4e-4d59-b6cb-5c8d32f52b07.gif">
+</p>
+<p align="center">
 
-# 💫 About Me
+<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+# 💜 About Me
+
+<img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 🎓 Computer Science Student
 
-📊 Passionate about **Data Science & Artificial Intelligence**
+📊 Passionate about Data Science & AI
 
-🤖 Interested in **Machine Learning & Deep Learning**
+🤖 Machine Learning Explorer
 
-🧹 Experienced with **Data Cleaning & Data Visualization**
+🧹 Data Cleaning Specialist
 
-🌐 Learning **Web Scraping & Automation**
+📈 Data Visualization Lover
 
-🧠 Competitive Programming Enthusiast
+🌐 Web Scraping Enthusiast
 
-📚 Always learning new technologies
+🏆 Competitive Programming
 
-💜 Goal:
+☕ Coffee + Code = Happiness
 
-> Build intelligent systems that solve real-world problems using data.
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,mysql"/>
-</p>
-
----
-
-## 📊 Data Science & Analytics
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Cleaning-43A047?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Visualization-7E57C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge"/>
-
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,jupyter"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## 📈 Business Intelligence
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-
-</p>
-
-
-
----
-
-## 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bananmagdy3-crypto&theme=tokyo-night"/>
-
----
-
-## 📊 GitHub Stats
-
+💡 Building projects every day.
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananmagdy3-crypto&layout=compact&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=bananmagdy3-crypto&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bananmagdy3-crypto&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
+<p align="center">
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
-
-
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,mysql,vscode,github,jupyter"/>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD,9370DB&height=120&section=footer"/>
