@@ -120,3 +120,15 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:9370DB&height=150&section=footer"/>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for stopping by! Feel free to explore my repos and connect with me.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:9370DB&height=150&section=footer"/>
