@@ -83,16 +83,6 @@ banan_magdy:
 
 <br/>
 
-<div align="center">
-
-**Skill Progress**
-
-Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████████████░░░░` 80%  
-SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`██████████████░░░░░░` 70%  
-Machine Learning `███████████░░░░░░░░░` 55%  
-C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████████░░░░░░░░` 60%  
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
