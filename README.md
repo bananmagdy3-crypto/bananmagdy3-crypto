@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=280&section=header&text=BANAN%20MAGDY&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%20Data%20Scientist%20%2F%2F%20ML%20Engineer%20%2F%2F%20Problem%20Solver%20%3E&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=300&section=header&text=BANAN%20MAGDY&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20Data%20Scientist%20%2F%2F%20ML%20Engineer%20%2F%2F%20Problem%20Solver%20%3E&descAlignY=52&descSize=18"/>
 
 </div>
 
@@ -13,16 +13,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&label=PROFILE+VIEWS&color=8A2BE2&style=flat-square"/>
-  <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-blueviolet?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/COFFEE-REQUIRED-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:example@email.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HI-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/bananmagdy3-crypto"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/KAGGLE-PROFILE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <br/>
 
@@ -51,6 +57,7 @@ banan_magdy:
 🌐  Web scraping is my superpower
 🧠  Believer in "let the data speak"
 💬  Ask me about Python, SQL or algorithms
+🎯  2026 goal: ship a full ML pipeline end-to-end
 ```
 
 </td>
@@ -60,7 +67,7 @@ banan_magdy:
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <h2 align="center">🧬 Tech Arsenal</h2>
 
@@ -74,7 +81,20 @@ banan_magdy:
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+**Skill Progress**
+
+Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████████████░░░░` 80%  
+SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`██████████████░░░░░░` 70%  
+Machine Learning `███████████░░░░░░░░░` 55%  
+C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████████░░░░░░░░` 60%  
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <h2 align="center">📡 Live Stats Feed</h2>
 
@@ -88,7 +108,7 @@ banan_magdy:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <h2 align="center">🏆 Achievements</h2>
 
@@ -96,7 +116,7 @@ banan_magdy:
 <img src="https://github-profile-trophy.vercel.app/?username=bananmagdy3-crypto&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -104,7 +124,7 @@ banan_magdy:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <h2 align="center">💭 Thought of the Day</h2>
 
@@ -112,7 +132,19 @@ banan_magdy:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
+
+<h2 align="center">🎧 Vibe Check</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="280">
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Debugging...+found+it!+%F0%9F%90%9B;Training+model...+%E2%8F%B3;Cleaning+messy+datasets+%F0%9F%A7%B9;Fueled+by+coffee+%E2%98%95"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
 
 <div align="center">
 
