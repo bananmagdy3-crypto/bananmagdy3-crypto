@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541108461623-9Y968947CWDN446U672X/coding-animation-v1.gif" width="450" alt="Coding Animation">
 </p>
 
 <p align="center">
@@ -40,110 +40,3 @@ banan_magdy:
   weapon_of_choice: [C++, C#, SQL]
   fuel: coffee + curiosity
   mission: "turn raw data into decisions that matter"
-```
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-### ⚡ Quick Facts
-
-```
-🔭  Deep in Data Science & ML projects
-🌱  Sharpening skills in competitive programming
-📊  Obsessed with clean, tidy datasets
-🌐  Web scraping is my superpower
-🧠  Believer in "let the data speak"
-💬  Ask me about Python, SQL or algorithms
-🎯  2026 goal: ship a full ML pipeline end-to-end
-```
-
-</td>
-<td width="40%">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<h2 align="center">🧬 Tech Arsenal</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,html,css,git,github,vscode,jupyter&theme=dark" />
-
-<br/><br/>
-
-`Data Analysis` `Data Visualization` `Data Cleaning` `Web Scraping` `Machine Learning` `Competitive Programming`
-
-</div>
-
-<br/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<h2 align="center">📡 Live Stats Feed</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bananmagdy3-crypto&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=C084FC&fire=C084FC" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananmagdy3-crypto&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bananmagdy3-crypto&theme=react-dark&hide_border=true&bg_color=0d1117&color=C084FC&line=8A2BE2&point=ffffff" width="65%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bananmagdy3-crypto&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<h2 align="center">💭 Thought of the Day</h2>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<h2 align="center">🎧 Vibe Check</h2>
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="280">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Debugging...+found+it!+%F0%9F%90%9B;Training+model...+%E2%8F%B3;Cleaning+messy+datasets+%F0%9F%A7%B9;Fueled+by+coffee+%E2%98%95"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0f0c29&height=3&width=1000"/>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300">
-
-### 🚀 "Data doesn't lie — code that reads it well doesn't either."
-
-**Thanks for scrolling this far — let's build something great together 💜**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:302b63,100:0f0c29&height=150&section=footer"/>
-
-</div>
