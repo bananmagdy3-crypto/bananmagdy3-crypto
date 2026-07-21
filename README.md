@@ -1,134 +1,139 @@
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="26"/>&nbsp;&nbsp;<b>banan_magdy.ipynb</b>&nbsp;&nbsp;<sub>Jupyter Notebook — last run just now</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:1e1e1e&height=2&width=1000"/>
+
+<br/>
+
+**In [1]:**
+```python
+import banan_magdy as me
+from mansoura_university import cs_department
+
+me = banan_magdy.Student(
+    name        = "Banan Magdy",
+    major       = cs_department,
+    focus       = ["Data Science", "Machine Learning", "Problem Solving"],
+    status      = "leveling up my programming skills",
+)
+
+print(me.bio())
+```
+
+**Out [1]:**
+```
+>>> Computer Science student at Mansoura University.
+>>> Passionate about turning messy data into clear decisions.
+>>> Currently sharpening skills across Python, C#, and SQL.
+```
+
+<br/>
+
+**In [2]:**
+```python
+me.skills.plot(kind="barh")
+```
+
+**Out [2]:**
+```
+Python          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%
+Pandas / NumPy  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
+Jupyter         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  85%
+C#              ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50%
+SQL             ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  60%
+Machine Learning▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  55%
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,35:8A2BE2,70:1E90FF,100:00F5D4&height=300&section=header&text=BANAN%20MAGDY&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=%F0%9F%94%AE%20Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Digital%20Alchemist&descAlignY=52&descSize=19"/>
+![Python](https://img.shields.io/badge/-Python-1e1e1e?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/-C++-1e1e1e?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-1e1e1e?style=flat-square&logo=csharp&logoColor=239120)
+![MySQL](https://img.shields.io/badge/-MySQL-1e1e1e?style=flat-square&logo=mysql&logoColor=4479A1)
+![NumPy](https://img.shields.io/badge/-NumPy-1e1e1e?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-1e1e1e?style=flat-square&logo=pandas&logoColor=150458)
+![Jupyter](https://img.shields.io/badge/-Jupyter-1e1e1e?style=flat-square&logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/-Git-1e1e1e?style=flat-square&logo=git&logoColor=F05032)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%3E+booting+banan.exe...;%3E+loading+neural_networks+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+status%3A+turning+chaos+into+clarity+%F0%9F%92%A1"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:1e1e1e&height=2&width=1000"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:8A2BE2,100:00F5D4&height=4&width=1000"/>
+**In [3]:**
+```python
+me.projects.sort_values("stars", ascending=False)
+```
+
+**Out [3]:**
+
+| # | repo | description | stack | stars |
+|---|------|--------------|-------|:-----:|
+| 0 | [**FiFa-2026**](https://github.com/bananmagdy3-crypto/FiFa-2026) | FIFA World Cup 2026 player performance analysis using advanced football metrics | Jupyter Notebook | ⭐ 2 |
+| 1 | [**Uber-Data-Analysis**](https://github.com/bananmagdy3-crypto/Uber-Data-Analysis) | End-to-end EDA on Uber trips — peak demand hours, round trips, ride-completion efficiency | Jupyter Notebook | ⭐ 1 |
+| 2 | [**E-Commerce-Data-Project**](https://github.com/bananmagdy3-crypto/E-Commerce-Data-Project) | Exploring e-commerce data for sales & customer behavior patterns | Python | ⭐ 1 |
+| 3 | [**numpyandpandas_practise**](https://github.com/bananmagdy3-crypto/numpyandpandas_practise) | Beginner sales analysis project, built to master NumPy & Pandas | Python | ⭐ 1 |
+| 4 | [**MindSprintCoders-main**](https://github.com/bananmagdy3-crypto/MindSprintCoders-main) | Team project built during a coding sprint | C# | ⭐ 1 |
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bananmagdy3-crypto&label=VISITORS&color=8A2BE2&style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/STATUS-CRUNCHING%20DATA-00F5D4?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-FF6EC7?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/FUEL-COFFEE%20%E2%98%95-6f4e37?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:1e1e1e&height=2&width=1000"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/bananmagdy3-crypto"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.kaggle.com/YOUR-KAGGLE-ID"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+**In [4]:**
+```python
+me.activity.describe()
+```
+
+**Out [4]:**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=github_dark&hide_border=true&bg_color=1e1e1e&title_color=ffffff&icon_color=6cb6ff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananmagdy3-crypto&layout=compact&theme=github_dark&hide_border=true&bg_color=1e1e1e&title_color=ffffff&text_color=c9d1d9" width="42%"/>
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-### 🪐 whoami
-
-```yaml
-banan_magdy:
-  role: "Data Scientist & ML Engineer"
-  exploring: [Machine Learning, Deep Learning, Data Pipelines]
-  daily_driver: Python
-  arsenal: [C++, C#, SQL, R]
-  fuel: coffee + curiosity
-  mission: >
-    turning raw, messy data
-    into decisions that matter
-  quirk: "debugs better after midnight 🌙"
+**In [5]:**
+```python
+me.contributions.plot(kind="calendar_heatmap")
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-
-### 🎯 focus radar
-
-```
-  ML Models      ████████░░  80%
-  Data Cleaning  █████████░  90%
-  Deep Learning  ██████░░░░  60%
-  SQL / DBs      ███████░░░  70%
-  Competitive PG █████░░░░░  50%
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:8A2BE2,100:FF6EC7&height=4&width=1000"/>
-
-## 🧬 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,csharp,mysql,r,git,github,vscode&theme=dark&perline=8" />
-
-<br/><br/>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:8A2BE2,100:00F5D4&height=4&width=1000"/>
-
-## 📡 Live Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bananmagdy3-crypto&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=FF6EC7&text_color=ffffff&ring_color=8A2BE2" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bananmagdy3-crypto&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00F5D4&text_color=ffffff" width="42%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bananmagdy3-crypto&theme=radical&hide_border=true&background=0f0c29&ring=FF6EC7&fire=00F5D4&currStreakLabel=8A2BE2" width="60%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bananmagdy3-crypto&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:8A2BE2,100:FF6EC7&height=4&width=1000"/>
-
-## 🐍 Contribution Grid
+**Out [5]:**
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/bananmagdy3-crypto/bananmagdy3-crypto/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> **ملاحظة:** أنيميشن الثعبان محتاج إعداد لمرة واحدة فقط — GitHub Action بيحدّثه يوميًا. الخطوات في آخر الملف.
+> **ملاحظة:** أنيميشن الثعبان محتاج إعداد لمرة واحدة (GitHub Action يومي) — الخطوات تحت في آخر الملف.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:8A2BE2,100:00F5D4&height=4&width=1000"/>
+<br/>
 
-<div align="center">
+**In [6]:**
+```python
+print("Kernel: always learning. Restarting daily.")
+```
 
-### 💭 quote of the repo
+**Out [6]:**
+```
+Kernel: always learning. Restarting daily.
+```
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,35:1E90FF,70:8A2BE2,100:FF6EC7&height=150&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:1e1e1e&height=2&width=1000"/>
 
 ---
 
-### ⚙️ إزاي تفعّلي أنيميشن الثعبان (خطوة واحدة بس)
+<details>
+<summary>⚙️ <b>إزاي تفعّلي أنيميشن الثعبان (خطوة واحدة بس)</b></summary>
 
-1. من الريبو → **Settings → Actions → General** → فعّلي **Read and write permissions**.
+<br/>
+
+1. من الريبو `bananmagdy3-crypto` → **Settings → Actions → General** → فعّلي **Read and write permissions**.
 2. أنشئي ملف `.github/workflows/snake.yml` بهذا المحتوى:
 
 ```yaml
@@ -160,4 +165,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. بعد أول تشغيل، الملف هيظهر تلقائي في الـ README.
+3. بعد أول تشغيل، الملف هيظهر تلقائي.
+
+</details>
