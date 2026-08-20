@@ -8,13 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=B478FF&center=true&vCenter=true&width=560&lines=Fighting+datasets+with+more+missing+values+than+my+motivation+at+8AM;SQL+and+I+are+still+negotiating+the+WHERE+clause;Python%3A+works+on+my+machine%E2%84%A2;404%3A+Sleep+not+found;Currently+debugging+life.exe..." alt="Typing SVG" />
 
-<br/><br/>
-
-<a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-REPLACE__WITH__YOUR__EMAIL-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- 👆 Replace the # above with your LinkedIn URL -->
-<img src="https://img.shields.io/badge/Mansoura_University-Computer_Science-1a0033?style=for-the-badge&logo=googlescholar&logoColor=d9b3ff"/>
-
 </div>
 
 <br/>
