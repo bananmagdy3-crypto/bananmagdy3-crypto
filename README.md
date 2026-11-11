@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=Banan%20Magdy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Specialist&descSize=20&descColor=FFC0CB" alt="Banan Magdy Header" />
-
-<br/><br/>
+# 🩸 Banan Magdy
+### **Data Scientist & Machine Learning Specialist**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=560&height=45&lines=Turning+Data+into+Strategy...;Building+Smart+ML+Models...;Crafting+Stunning+BI+Dashboards...;Exploring+Deep+Data+Insights..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=520&height=40&lines=Turning+Data+into+Strategy...;Building+Smart+ML+Models...;Crafting+Stunning+BI+Dashboards...;Exploring+Deep+Data+Insights..." alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e2.gif" width="380" alt="Coding GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e2.gif" width="360" alt="Coding GIF" />
 
 </div>
 
@@ -96,7 +95,5 @@ Hi there! I'm **Banan Magdy** 👋 a **Data Analyst & Machine Learning Specialis
 <div align="center">
 
 🩸 *"Without data, you're just another person with an opinion."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" alt="Footer" />
 
 </div>
